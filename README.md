@@ -1,4 +1,4 @@
-hello-repository
+hello-world
 ================
 
-learning github demo
+Hi humans!!
